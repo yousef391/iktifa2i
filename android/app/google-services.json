@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710969970162",
+    "project_id": "iktifa2i",
+    "storage_bucket": "iktifa2i.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710969970162:android:7e402fc2f55e8819fdef6b",
+        "android_client_info": {
+          "package_name": "com.example.greenhood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSwdNeMgE_vYpn7DbQ-snKT1RY65Zpl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
